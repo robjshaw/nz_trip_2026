@@ -63,3 +63,7 @@ By maintaining this historical record of daily fare snapshots, we can:
 - Identify trends in pricing for peak summer weekends
 - Know exactly when to book to secure optimal fares
 - Avoid overpaying during high-demand periods
+
+## Initial Report
+The initial preview report for this project can be found here:
+- [NZ_Weekend_Fare_Report_2025-08-16.md](NZ_Weekend_Fare_Report_2025-08-16.md)
