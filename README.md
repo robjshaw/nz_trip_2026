@@ -64,6 +64,7 @@ By maintaining this historical record of daily fare snapshots, we can:
 - Know exactly when to book to secure optimal fares
 - Avoid overpaying during high-demand periods
 
-## Initial Report
-The initial preview report for this project can be found here:
+## Reports
+
 - [NZ_Weekend_Fare_Report_2025-08-16.md](NZ_Weekend_Fare_Report_2025-08-16.md)
+- [NZ_Weekend_Fare_Report_2025-08-17.md](NZ_Weekend_Fare_Report_2025-08-17.md)
