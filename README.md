@@ -69,3 +69,4 @@ By maintaining this historical record of daily fare snapshots, we can:
 - [NZ_Weekend_Fare_Report_2025-08-16.md](NZ_Weekend_Fare_Report_2025-08-16.md)
 - [NZ_Weekend_Fare_Report_2025-08-17.md](NZ_Weekend_Fare_Report_2025-08-17.md)
 - [SYD_OOL_Weekend_Fare_Report_2025-08-18.md](SYD_OOL_Weekend_Fare_Report_2025-08-18.md)
+- [NZ_Weekend_Fare_Report_2025-08-18.md](NZ_Weekend_Fare_Report_2025-08-18.md)
